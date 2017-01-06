@@ -11,10 +11,24 @@ Git is a modern version control system used by software engineers, and GitHub ha
 * Intro to version control, Git and GitHub (Anthony)
 * Basic Git commands and vocabulary (Steve)
   * Commit, sync, push, pull, clone, fork, pull request
+  * Show concept, then demonstrate fork/clone, branch, commit, pull request
 * Examples of different GitHub projects & workflows (Anthony)
 * What we can use it for at LimnoTech (Steve)
+  * Individual/Colaborative coding projects
+  * Individual/Collaborative writing (like this document)
+  * Anything that would benefit from text version control
+    * Model input files
+    * Text documents
+      * to do lists
+      * configuration files
+      * ...anything you'd like to save versions of
 * End with "homework" to add to a GitHub project (Steve)
-  * Have people download. Maybe write a story as a group?
+  * Will create a new repository with a story to edit
+  * Fork project
+  * Add commit
+  * New pull request
+  * see it updated
+  * Do this once during the presentation
 
 ####Get Started:
 1. Create a free personal GitHub account: [https://github.com/pricing​](https://github.com/pricing)
