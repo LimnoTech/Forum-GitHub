@@ -49,4 +49,5 @@ Git is a modern version control system used by software engineers, and GitHub ha
   * This setup allows you to have both RStudio and GitHub Desktop connected to the same instance of Git on your local machine, with the additional ability to interact/sync with repositories on GitHub.
   * Using Version Control with RStudio​: [https://support.rstudio.com/hc/en-us/articles/200532077?version=1.0.44&mode=desktop](https://support.rstudio.com/hc/en-us/articles/200532077?version=1.0.44&mode=desktop)
   
+####GitHub FAQ (please add questions here!):
 
