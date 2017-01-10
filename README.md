@@ -8,6 +8,8 @@ Git is a modern version control system used by software engineers, and GitHub ha
 
 
 ####Outline:
+If you haven't created a GitHub account, please do so now to follow along [https://github.com/pricing​](https://github.com/pricing)
+
 * Intro to version control, Git and GitHub (Anthony)
 * Basic Git commands and vocabulary (Steve)
   * Commit, sync, push, pull, clone, fork, pull request
