@@ -1,6 +1,6 @@
 
 # An Intro to Git & GitHub for Version Control & Collaboration
-**A Hands-on Forum Presentation to LimnoTech Staff**
+**A Hands-on Forum Presentation to LimnoTech Staff**   
 **By Anthony Aufdenkampe & Steve Skripnik**
 
 ####Abstract:
@@ -10,11 +10,16 @@ Git is a modern version control system used by software engineers, and GitHub ha
 ####Outline:
 If you haven't created a GitHub account, please do so now to follow along [https://github.com/pricing​](https://github.com/pricing)
 
-* Intro to version control, Git and GitHub (Anthony)
+1. What is version control and why should I use it? (Anthony)
+  * Problems solved by version control
+  * Git & GitHub
 * Basic Git commands and vocabulary (Steve)
   * Commit, sync, push, pull, clone, fork, pull request
   * Show concept, then demonstrate fork/clone, branch, commit, pull request
 * Examples of different GitHub projects & workflows (Anthony)
+	*  Forks and Pull Requests: [EnviroDIY/Arduino-SDI-12](https://github.com/EnviroDIY/Arduino-SDI-12)
+	*  Website: [ODM2/ODM2ControlledVocabularies](https://github.com/ODM2/ODM2ControlledVocabularies)
+	*  Tutorials: [swcarpentry/git-novice](https://github.com/swcarpentry/git-novice)
 * What we can use it for at LimnoTech (Steve)
   * Individual/Colaborative coding projects
   * Individual/Collaborative writing (like this document)
