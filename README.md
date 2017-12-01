@@ -3,11 +3,11 @@
 **A Hands-on Forum Presentation to LimnoTech Staff**   
 **By Anthony Aufdenkampe & Steve Skripnik**
 
-####Abstract:
+#### Abstract:
 Git is a modern version control system used by software engineers, and GitHub has become a predominant platform enabling teams to collaboratively develop assemblages of text-based documents and to publish open-source code. This hands-on forum is designed to demonstrate a number of different workflows using Git & GitHub that could be valuable to a broad range of LimnoTech staff, including managing model input files for different scearios on solo projects. Bring your laptop and feel free to [Get Started](https://github.com/LimnoTech/Forum-GitHub#get-started) (see below) before you arrive.
 
 
-####Outline:
+#### Outline:
 If you haven't created a GitHub account, please do so now to follow along [https://github.com/pricing​](https://github.com/pricing)
 
 1. What is version control and why should I use it? (Anthony)
@@ -37,7 +37,7 @@ If you haven't created a GitHub account, please do so now to follow along [https
   * see it updated
   * Do this once during the presentation
 
-####Get Started:
+#### Get Started:
 1. Create a free personal GitHub account: [https://github.com/pricing​](https://github.com/pricing)
   * ​Email your username to Anthony, Tad or Todd, and we'll add you as members of the [LimnoTech Github organization](https://github.com/LimnoTech​). Once you are a member, go to People and change your visibility to Public. The LimnoTech logo will now be connected to your personal account and you will be able to see & create the LimnoTech's private respositories.
 
@@ -56,7 +56,7 @@ If you haven't created a GitHub account, please do so now to follow along [https
   * This setup allows you to have both RStudio and GitHub Desktop connected to the same instance of Git on your local machine, with the additional ability to interact/sync with repositories on GitHub.
   * Using Version Control with RStudio​: [https://support.rstudio.com/hc/en-us/articles/200532077?version=1.0.44&mode=desktop](https://support.rstudio.com/hc/en-us/articles/200532077?version=1.0.44&mode=desktop)
   
-####GitHub FAQ (please add questions here!):
+#### GitHub FAQ (please add questions here!):
 
 add stuff
 save again
